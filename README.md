@@ -1,5 +1,5 @@
-# (AnalysisPISA 2012 Results)
-## by (Nasiru Mohammed Ibrahim)
+# Analysis of PISA 2012 Results
+## by Nasiru Mohammed Ibrahim
 
 
 ## Dataset
@@ -23,14 +23,4 @@
   <li>Across all tests the top performing regions were mostly Asian, with the China-Shanghai region coming out on top in all test scores.</li>
   <li>Students from OECD countries tend to perform better in all tests than their Non-OECD counterparts.</li>
   <li>Attendance of the ISCED Level 0 is shown to have a positive impact on test performance.</li>
-</ul>
-
-
-## Key Insights for Presentation
-
-> These are the insights focused upon in the presentation:
-<ul>
-  <li>The scores from the math test, without any grouping, is approximately normal in distribution. The implication of this is that the likelihood of observing a data point gets higher the closer it is to the mean.</li>
-  <li>Most of the students that participated in the ISCED Level 0 programme are from OECD countries.</li>
-  <li>Greater participation in the ISCED Level 0 is associated with better test performance in both OECD and Non-OECD countries.</li>
 </ul>
