@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> ISA (Program for International Student Assessment) 2012 is the programme’s 5th survey. It assessed the competencies of 15-year-olds in reading, mathematics and science (with a focus on mathematics) in 65 countries and economies. Around 510 000 students between the ages of 15 years 3 months and 16 years 2 months participated in PISA 2012 as a whole representing about 28 million 15-year-olds globally.
+> PISA (Program for International Student Assessment) 2012 is the programme’s 5th survey. It assessed the competencies of 15-year-olds in reading, mathematics and science (with a focus on mathematics) in 65 countries and economies. Around 510 000 students between the ages of 15 years 3 months and 16 years 2 months participated in PISA 2012 as a whole representing about 28 million 15-year-olds globally.
 
 >The participating countries were split into two groups based on membership status in the OECD (The Organization for Economic Cooperation and Development).
 
